@@ -1,6 +1,21 @@
-# Software Career Predictor
+# 🎯 Software Career Predictor
 
-A complete, production-ready ML pipeline that predicts placement, job role, and expected salary for software engineering students.
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://placement-predictor.streamlit.app)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+A complete, production-ready ML pipeline that predicts **placement probability**, **job role**, and **expected salary** for software engineering students — with a rich interactive Streamlit dashboard.
+
+## ✨ New Features (v2)
+
+| Feature | Description |
+|---------|-------------|
+| 🧑‍🏫 **Smart Career Advisor** | 5 personalized, actionable tips based on your weak spots |
+| 🔄 **What-If Simulator** | See how improving CGPA, adding internships or skills changes your probability |
+| 🏆 **Percentile Badge** | Bronze / Silver / Gold / Platinum tier with dataset percentile rank |
+| 📊 **Dataset Explorer** | Full interactive dataset analysis across 9,000 students |
+| 📥 **Download Report** | Export your full career report as a `.txt` file |
+| ✨ **Smooth Animations** | Spinner + animated card reveals on every prediction |
 
 ---
 
